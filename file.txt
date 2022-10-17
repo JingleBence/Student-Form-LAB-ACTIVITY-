@@ -1,0 +1,14 @@
+First Name: Vince
+M.I: Beltran
+Last Name: Micklay
+Course: BSIT
+Gender: Male
+Phone: 09085796392
+
+Anddress: 
+  52-A, Purok Pongian Loakan Proper, Baguio City
+
+
+Email: monz12275@gmail.com
+Password: nickatmolt50
+Re-type passord: nickatmolt50
